@@ -19,14 +19,14 @@ title: 주연의 개발일지 # the main title
 tagline: Developer Jooye0n # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  학습 내용을 적는 공간입니다
+  jooye0n의 학습 내용을 적는 공간입니다
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://jooye0n.github.io"
 
 github:
-  username: jooye0n # change to your github username
+  username: 신주연 # change to your github username
 
 #twitter:
 #  username: twitter_username # change to your twitter username
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: jooye0n
+  name: '신주연'
   email: wndus6165@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -78,7 +78,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: '/assets/img/favicons/profile.jpeg'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
