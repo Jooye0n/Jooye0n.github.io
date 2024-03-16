@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 주연의 개발일지 # the main title
+title: jooye0n 개발일지 # the main title
 
 tagline: Developer Jooye0n # it will display as the sub-title
 
@@ -126,7 +126,9 @@ defaults:
     scope:
       path: _drafts
     values:
-      comments: false
+      layout: post
+      comments: false    # Enable comments in posts.
+      toc: true         # Display TOC column in posts.
   - 
     scope:
       path: ""
@@ -134,6 +136,8 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+      dynamic_title: true    # Hide title in mobile screens.
+
 
 sass:
   style: compressed
