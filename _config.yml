@@ -14,9 +14,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jooye0n Blog # the main title
+title: Jooye0n's blog # the main title
 
-tagline: 학습 내용을 적는 공간입니다 # it will display as the sub-title
+tagline: Developer Jooye0n's blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Jooye0n의 학습 내용을 적는 공간입니다
