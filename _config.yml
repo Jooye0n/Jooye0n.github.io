@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: Jooye0n Blog # the main title
 
-tagline: Developer Jooye0n Blog # it will display as the sub-title
+tagline: Jooye0n의 학습 내용을 적는 공간입니다 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  jooye0n의 학습 내용을 적는 공간입니다
+  Jooye0n의 학습 내용을 적는 공간입니다
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
