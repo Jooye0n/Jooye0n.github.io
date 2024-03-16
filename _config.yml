@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Jooye0n Blog # the main title
 
-tagline: Jooye0n의 학습 내용을 적는 공간입니다 # it will display as the sub-title
+tagline: 학습 내용을 적는 공간입니다 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Jooye0n의 학습 내용을 적는 공간입니다
