@@ -1,14 +1,14 @@
 ---
-categories:
-- Cases
-date: "2026-04-05 10:00:00 +0900"
-tags:
-- webview
-- kakao
-- polling
-- javascript
-- hybrid-app
-title: \[Case/WebView\] 카카오 인증 후 페이지 깨짐 + 폴링 중복 문제 해결
+title: 카카오 인증 후 복귀 시 Page Load Failure 문제 해결
+author: Jooye0n
+date: 2024-03-13 18:07:00 +09:00
+categories: [Issue]
+tags: [webview, kakao, polling, javascript, hybrid-app]
+toc: true
+toc_sticky: true
+toc_label: 목차
+math: true
+mermaid: true
 ---
 
 ## 1. 문제 상황
@@ -19,7 +19,7 @@ title: \[Case/WebView\] 카카오 인증 후 페이지 깨짐 + 폴링 중복 �
 
 ### 발생 문제
 
-1.  Android에서 카카오 인증 후 복귀 시 페이지가 깨지거나 에러 발생
+1.  Android에서 카카오 인증 후 복귀 시 일부 사용자에게서 Page Load Failure 발생
 2.  인증수단 변경 시 (카카오 → KB 인증서)
     -   기존 카카오 폴링이 계속 돌고
     -   KB 인증 폴링도 동시에 수행됨
