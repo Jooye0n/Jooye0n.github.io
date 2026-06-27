@@ -2,7 +2,7 @@
 title: 서버는 왜 리눅스로 구성할까
 author: Jooye0n
 date: 2026-06-27 14:57:00 +09:00
-categories: [Issue]
+categories: [Core, System]
 tags: [Linux, server]
 toc: true
 toc_sticky: true
